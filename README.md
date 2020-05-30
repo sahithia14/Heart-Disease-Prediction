@@ -1,4 +1,4 @@
-Heart Disease Diagnois using Machine Learning and Deep Learning
+Heart Disease Diagnosis using Machine Learning and Deep Learning
 
 
 This data set is from the UCI Machine Learning library and it can be found here: http://archive.ics.uci.edu/ml/datasets/Heart+Disease 
@@ -13,6 +13,6 @@ Feature #14 has also been reduced to a binary problem to detect the presence of 
 
 Results:
 
-tried various deep learning and machine learning models, and the deep learning keras sequential model proved to have the highest accuracy.
+Various deep learning and machine learning models were tested, and the deep learning keras sequential model proved to have the highest accuracy.
 
 
